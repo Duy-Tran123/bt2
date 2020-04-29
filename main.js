@@ -1,0 +1,6 @@
+
+            function hand(){
+                alert('amazing');
+            }
+
+
